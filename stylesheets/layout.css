@@ -41,9 +41,9 @@ ul, ol { margin-bottom:0px; }
 ul li { margin-bottom:15px; }
 /*===== End Lists =====*/
 
-/*a { color:#00bbcc; }*/
+/*a { color:#547AA5; }*/
 a { color:#547AA5; }
-/*a:focus, a:hover, a.active {color:#00bbcc;  }*/
+/*a:focus, a:hover, a.active {color:#547AA5;  }*/
 a:focus, a:hover, a.active {color:#547AA5;  }
 section{
 }
@@ -98,8 +98,8 @@ section{
 }
 .rzm_button a:hover{
 	color:#fff !important;
-	background:#0abfbf;
-	border-color:#0abfbf !important;
+	background:#547aa5;
+	border-color:#547aa5 !important;
 }
 .rzm_button i{
 	padding-right:7px;
@@ -168,7 +168,7 @@ section{
  font-size:16px;
 }
 .rzm_profile_nav .primary li a:hover{
- color:#0abfbf;
+ color:#547aa5;
 }
 .go_to_top i{
 	font-size: 13px;
@@ -182,7 +182,7 @@ section{
 	color:#000;
 }
 .social_nav a:hover{
-	color:#00bbcc;
+	color:#547AA5;
 }
 
 
@@ -228,14 +228,14 @@ h1.title {
 	margin-bottom:31px;
 }
 .rzm_progress_bar .progress-bar{
-	/*background:#0abfbf;*/
+	/*background:#547aa5;*/
 	background:#547AA5;
 }
 .rzm_perchantage{
 	margin-top:-30px;
 	font-size:16px;
 	font-weight:400;
-	/*color:#0ABFBF;*/
+	/*color:#547aa5;*/
 	color:#547AA5;
 }
 .progress-bar {
@@ -261,7 +261,7 @@ h1.title {
 	margin: 19px 0 110px 0;
 }
 .about_info a{
-	color:#00bbcc;
+	color:#547AA5;
 	text-decoration:none;
 }
 
@@ -393,7 +393,7 @@ span.rzm_importo{
     font-size: 18px;
 }
 span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
-	color:#0abfbf !important;
+	color:#547aa5 !important;
 	cursor:pointer;
 }
 
@@ -404,11 +404,11 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
     font-size: 15px;
 }
 .active li .rzm_importo{
-	color:#0abfbf;
+	color:#547aa5;
 	
 }
 #rzm_timeline .rzm_timeline-badge.active_box{
-	background-color:#0abfbf;
+	background-color:#547aa5;
 }
 /*========================================
  	====End experience Timeline ====  
@@ -572,7 +572,7 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 .rzm_btn_block{
 	padding:20px 0px;
 }
-.main-btn{ background:#00bbcc; border-color:#00bbcc; color:#fff;min-width:160px;min-height:50px;font-family: 'Lato', sans-serif;font-size:18px !important; font-weight:900 !important;}
+.main-btn{ background:#547AA5; border-color:#547AA5; color:#fff;min-width:160px;min-height:50px;font-family: 'Lato', sans-serif;font-size:18px !important; font-weight:900 !important;}
 .main-btn:hover{ background:#00c2cc;color:#fff !important;}
 /*========================================
  	====End Contact Area ====  

@@ -10,15 +10,15 @@ require 'PHPMailer-master/PHPMailerAutoload.php';
 */
 
 // an email address that will be in the From field of the email.
-$fromEmail = 'noreply@domain.com';
-$fromName = 'Rezyme contact form';
+$fromEmail = 'contact@junneshenning.com';
+$fromName = 'Junnes Henning contact form';
 
 // an email address that will receive the email with the output of the form
-$sendToEmail = 'teconce.ceo@gmail.com';
+$sendToEmail = 'contact@junneshenning.com';
 $sendToName = 'Demo contact form';
 
 // subject of the email
-$subject = 'New message from Rezyme contact form';
+$subject = 'New message from Junnes Henning contact form';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
@@ -91,3 +91,4 @@ if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQ
 else {
     echo $responseArray['message'];
 }
+
