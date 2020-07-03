@@ -33,7 +33,7 @@ ul.filter > li > a:hover,ul.filter > li > a:focus {
 }
 
 ul.filter > li.active a {
-    color:#0abfbf
+    color:#547AA5
 }
 
 ul.filter > li span {
@@ -110,7 +110,7 @@ ul.filter > li span {
     right:0;
     bottom:0;
     top:0;
-    background-color:#0abfbf;
+    background-color:#547AA5;
  
 }
 
