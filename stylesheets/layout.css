@@ -603,6 +603,13 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 	color:#404040;
 	background:#f2f2f2;
 }
+.rzm_footer h2{
+	text-align:center;
+	font-family: 'Lato', sans-serif;
+	font-size:15px;
+	margin:40px 0 20px 0;
+	font-weight:700;
+}
 .rzm_footer h4{
 	text-align:center;
 	font-family: 'Lato', sans-serif;
