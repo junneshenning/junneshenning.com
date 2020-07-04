@@ -13,7 +13,7 @@ Author URI: http://themepla.net
 3.0 Header
 4.0 Profile
 5.0 Experience Timeline
-6.0 Clients Area
+6.0 Technologies Area
 7.0 Testimonial Area
 8.0 Contact Area
 9.0 Footer Area
@@ -417,7 +417,7 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 
 
 /*========================================
- 	====6.0 Clients Area====  
+ 	====6.0 Technologies Area====  
 ========================================*/
 .rzm_client p{
 	font-size:28px;
@@ -438,6 +438,7 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 }
 .rzm_client_img img{
 	padding:0px 30px;
+	padding-bottom: 30px;
 }
 
 
