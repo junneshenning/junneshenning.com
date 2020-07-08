@@ -87,7 +87,7 @@ section{
 	margin:40px auto;
 	display:block;
 	border-radius:20px;
-	color:#808080 !important;
+	color:#4F5165 !important;
 	border-color:#b2b2b2 !important;
 	font-family: 'Lato', sans-serif; font-weight:900;
 	font-size:15px;
@@ -380,7 +380,7 @@ h2.title {
   text-align: right;
 }
 #rzm_timeline .rzm_timeline-movement .rzm_timeline-item .rzm_timeline-panel.credits .rzm_timeline-panel-ul li {
-  color: #808080;
+  color: #4F5165;
   font-family: 'Lato', sans-serif; font-weight:700;
   font-size:15px;
  
@@ -412,13 +412,13 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 }
 
 .rzm_causale{
-	color: #808080;
+	color: #4F5165;
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     font-size: 15px;
 }
 .active li .rzm_importo{
-	color:#547aa5;
+	color:#293132;
 	
 }
 #rzm_timeline .rzm_timeline-badge.active_box{
@@ -434,14 +434,14 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 ========================================*/
 .rzm_client p{
 	font-size:28px;
-	color:#404040;
+	color:#474044;
 	font-family: 'Lato', sans-serif;
 	margin: 50px 0 30px 0;
 	font-weight:300;
 }
 .rzm_client small{
 	font-size:16px;
-	color:#808080;
+	color:#4F5165;
 	font-family: 'Lato', sans-serif; 
 	font-weight:700;
 }
@@ -524,7 +524,7 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 	line-height:6px !important;
 	font-size:15px;
 	font-weight:700;
-	color:#808080;
+	color:#4F5165;
 	text-align:right;
 }
 .caption blockquote small::before {
