@@ -198,11 +198,10 @@ section{
 	position:relative;
 }
 .rez_top_title h1{
-	color:#ffffff;
+	color:#fcfcfc;
 	font-family: 'Lato', sans-serif; font-weight:900;
 	margin-top:-75px;
-	/*font-size:48px;*/
-	font-size: 3em;
+	font-size:48px;
 }
 .rez_top_title p{
 	color:#808080;
